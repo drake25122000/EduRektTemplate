@@ -18,6 +18,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RoomListComponent } from './room-list/room-list.component';
 import { RoomDetailsComponent } from './room-details/room-details.component';
+import { StudentDetailsComponent } from './student-details/student-details.component';
 import { StudentListComponent } from './student-list/student-list.component';
 import { ModuleListComponent } from './module-list/module-list.component';
 import { ConfirmationDialogComponent } from './confirmation-dialog/confirmation-dialog.component';
@@ -28,6 +29,7 @@ import { ConfirmationDialogComponent } from './confirmation-dialog/confirmation-
     RoomListComponent,
     RoomDetailsComponent,
     StudentListComponent,
+    StudentDetailsComponent,
     ModuleListComponent,
     ConfirmationDialogComponent
   ],
